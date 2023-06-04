@@ -1,0 +1,29 @@
+{
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
+  "TWITTER": "",
+  "DISCORD": "",
+  "INSTAGRAM": "",
+  "ROADMAP": "",
+  "MANTRA": "",
+  "NETWORK": {
+    "NAME": "Dogechain",
+    "SYMBOL": "wDOGE",
+    "ID": 2000
+  },
+  "WHITE_LIST_MINT": false,
+  "NFT_NAME": "DogechainPaws",
+  "SYMBOL": "PAWS",
+  "MAX_SUPPLY": 3555,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 410000,
+  "MARKETPLACE": "MANTRA",
+  "MARKETPLACE_LINK": "https://app.withmantra.com/",
+  "SHOW_BACKGROUND": false,
+  "DISCOUNT": "",
+  "MAX_PER_WALLET": "10 MAX PER TRANSACTION",
+  "SOLD_OUT": "",
+  "TITLE_ONE": "MINT A DOGECHAIN PAW",
+  "TITLE_TWO": ""
+}
